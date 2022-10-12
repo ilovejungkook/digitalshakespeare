@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ilovejungkook.github.io/digitalshakespeare/sitemap.xml
